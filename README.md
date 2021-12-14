@@ -19,7 +19,7 @@ Replacing the above placeholder with the link copied from GitHub. This will clon
 ## Usage
 This code is strictly for use with Horiseon marketing agency and is only provided as material for study and otherwise double-checking implementation of accessibility and SEO standards. Screenshots of original mockup are included.
 
-   ![Mockup of Horiseon marketing agency landing page.](./Develop/assets/images/mockup-screenshot.png)
+   ![Mockup of Horiseon marketing agency landing page.](./assets/images/mockup-screenshot.png)
 
 ## Credits
 UT Austin Coding Boot Camp https://github.com/coding-boot-camp/urban-octo-telegram
