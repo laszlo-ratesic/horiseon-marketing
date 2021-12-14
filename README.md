@@ -53,7 +53,7 @@ SOFTWARE.
 - Semantic HTML elements
 - Logical structure independent of styling and positioning
 - Accessible alt attributes on all images
-- Heading attributes fall in sequential orde
+- Heading attributes fall in sequential order
 - Concise, descriptive title
 
 ## How to Contribute
